@@ -4,7 +4,7 @@
   "description": "Älpli Bestellaufnahme",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#f3efe5",
+  "background_color": "#FFC000",
   "theme_color": "#FFC000",
   "orientation": "portrait"
 }
