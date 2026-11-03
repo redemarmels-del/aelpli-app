@@ -1,0 +1,10 @@
+{
+  "name": "Älpli Bestellaufnahme",
+  "short_name": "Älpli",
+  "description": "Älpli Bestellaufnahme",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3efe5",
+  "theme_color": "#8a1f24",
+  "orientation": "portrait"
+}
